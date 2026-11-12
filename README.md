@@ -11,7 +11,8 @@ Proyecto desarrollado para el módulo **Lenguajes de Marcas** del ciclo formativ
 
 ## 📝 Descripción
 
-[Breve descripción del proyecto: de qué trata, qué objetivo tiene y qué se ha desarrollado. Por ejemplo: "Sitio web sobre ... creado con HTML5 y CSS3, aplicando buenas prácticas de maquetación y accesibilidad."]
+>Descripción por hacer
+<!--[Breve descripción del proyecto: de qué trata, qué objetivo tiene y qué se ha desarrollado. Por ejemplo: "Sitio web sobre ... creado con HTML5 y CSS3, aplicando buenas prácticas de maquetación y accesibilidad."]-->
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -23,14 +24,11 @@ Proyecto desarrollado para el módulo **Lenguajes de Marcas** del ciclo formativ
 
 ## 📁 Estructura del repositorio
 
-<!-- ```
+```
 ├── index.html
-├── css/
-│   └── estilos.css
 ├── img/
-├── docs/
 └── README.md
-``` -->
+```
 
 ## 🚀 Cómo visualizar el proyecto
 
