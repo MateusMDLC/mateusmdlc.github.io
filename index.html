@@ -8,5 +8,28 @@
 <body>
     <h1>Titulo provisional</h1>
     <img src="/img/code-markup.jpg" alt="place holder image">
+    <br>
+    <form action="https://ncoge.com/phps/formulario.php" method="post" enctype="multipart/form-data">
+        Nombre:
+        <input type="text" name="nombre">
+        <br>
+        Contraseña:
+        <input type="password" name="contraseña">
+        <br>
+        Puestos de trabajo:
+        <br>
+        <input type="checkbox" name="trbajo1" value="Programador"> Programador
+        <input type="checkbox" name="trbajo2" value="Dependiente"> Dependiente
+        <input type="checkbox" name="trbajo3" value="Gerente"> Gerente
+        <br>
+        Sexo:
+        <br>
+        <input type="radio" name="sexo" value="Hombre"> Hombre
+        <input type="radio" name="sexo" value="Mujer"> Mujer
+        <input type="radio" name="sexo" value="Prefiero no contestar"> Prefiero no contestar
+        <br>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Borrar">
+    </form>
 </body>
 </html>
